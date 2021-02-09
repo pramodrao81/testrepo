@@ -14,7 +14,14 @@ pipeline{
                 script{
                     bat(/mvn clean test/)
                 }
-                step([$class : 'Publisher', reportFilenamePattern : '**/test-output/LowLevel_Report/Test-Automaton-Report.html'])
+                publishHTML target: [
+                            allowMissing: false,
+                            alwaysLinkToLastBuild: false,
+                            keepAll: true,
+                            reportDir: 'test-output\LowLevel_Report',
+                            reportFiles: 'Test-Automaton-Report.html',
+                            reportName: 'Automation Report'
+                          ]
             }
 
         }
