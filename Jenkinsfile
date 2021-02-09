@@ -25,5 +25,10 @@ pipeline{
             }
 
         }
+        stage("Email"){
+        			steps{
+        				emailext (to: 'pramodrao81@gmail.com', replyTo: 'pramodrao81@gmail.com', subject: "Email Report from - '${env.JOB_NAME}' ", body: readFile("target/surefire-reports/emailable-report.html"), mimeType: 'text/html');
+        			}
+        		}
     }
 }
