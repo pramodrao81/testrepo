@@ -1,0 +1,12 @@
+
+o
+java:S32526"RUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_BOOLEAN".(ƒ´Ã¼8èñ±ò.
+>	java:S131-""Add a default case to this switch.(ï¶³8òé«¯ò.
+s
+java:S3252."QUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_STRING".(øØ¦Îüÿÿÿÿ8…Á€±ò.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(·øÇ8ÏüüÊò.
+o
+java:S32522"RUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_NUMERIC".(û›¸å8üÉ±ò.
+{
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó»ÀÂúÿÿÿÿ8ÆÜßàô.

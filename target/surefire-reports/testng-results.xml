@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="6654" started-at="2021-02-09T14:36:18 IST" finished-at="2021-02-09T14:36:25 IST">
+    <groups>
+    </groups>
+    <test name="Regression Test" duration-ms="6654" started-at="2021-02-09T14:36:18 IST" finished-at="2021-02-09T14:36:25 IST">
+      <class name="apitests.FootballApiTests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:apitests.FootballApiTests@5d76b067]" name="setup" is-config="true" duration-ms="914" started-at="2021-02-09T14:36:19 IST" finished-at="2021-02-09T14:36:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="extratcAllTeamNames()[pri:0, instance:apitests.FootballApiTests@5d76b067]" name="extratcAllTeamNames" duration-ms="2959" started-at="2021-02-09T14:36:19 IST" finished-at="2021-02-09T14:36:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extratcAllTeamNames -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:apitests.FootballApiTests@5d76b067]" name="setup" is-config="true" duration-ms="4" started-at="2021-02-09T14:36:22 IST" finished-at="2021-02-09T14:36:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getAllTeamData()[pri:0, instance:apitests.FootballApiTests@5d76b067]" name="getAllTeamData" duration-ms="333" started-at="2021-02-09T14:36:22 IST" finished-at="2021-02-09T14:36:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllTeamData -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:apitests.FootballApiTests@5d76b067]" name="setup" is-config="true" duration-ms="6" started-at="2021-02-09T14:36:23 IST" finished-at="2021-02-09T14:36:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getAllTeamData_DoCheckFirst()[pri:0, instance:apitests.FootballApiTests@5d76b067]" name="getAllTeamData_DoCheckFirst" duration-ms="356" started-at="2021-02-09T14:36:23 IST" finished-at="2021-02-09T14:36:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllTeamData_DoCheckFirst -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:apitests.FootballApiTests@5d76b067]" name="setup" is-config="true" duration-ms="6" started-at="2021-02-09T14:36:23 IST" finished-at="2021-02-09T14:36:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getDateFounded()[pri:0, instance:apitests.FootballApiTests@5d76b067]" name="getDateFounded" duration-ms="442" started-at="2021-02-09T14:36:23 IST" finished-at="2021-02-09T14:36:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDateFounded -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:apitests.FootballApiTests@5d76b067]" name="setup" is-config="true" duration-ms="4" started-at="2021-02-09T14:36:24 IST" finished-at="2021-02-09T14:36:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getDetailsofOneArea()[pri:0, instance:apitests.FootballApiTests@5d76b067]" name="getDetailsofOneArea" duration-ms="335" started-at="2021-02-09T14:36:24 IST" finished-at="2021-02-09T14:36:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDetailsofOneArea -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:apitests.FootballApiTests@5d76b067]" name="setup" is-config="true" duration-ms="2" started-at="2021-02-09T14:36:24 IST" finished-at="2021-02-09T14:36:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getFirstTeamName()[pri:0, instance:apitests.FootballApiTests@5d76b067]" name="getFirstTeamName" duration-ms="509" started-at="2021-02-09T14:36:24 IST" finished-at="2021-02-09T14:36:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFirstTeamName -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:apitests.FootballApiTests@5d76b067]" name="setup" is-config="true" duration-ms="4" started-at="2021-02-09T14:36:24 IST" finished-at="2021-02-09T14:36:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getHeaders()[pri:0, instance:apitests.FootballApiTests@5d76b067]" name="getHeaders" duration-ms="331" started-at="2021-02-09T14:36:24 IST" finished-at="2021-02-09T14:36:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHeaders -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:apitests.FootballApiTests@5d76b067]" name="setup" is-config="true" duration-ms="3" started-at="2021-02-09T14:36:25 IST" finished-at="2021-02-09T14:36:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getTeamName()[pri:0, instance:apitests.FootballApiTests@5d76b067]" name="getTeamName" duration-ms="372" started-at="2021-02-09T14:36:25 IST" finished-at="2021-02-09T14:36:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTeamName -->
+      </class> <!-- apitests.FootballApiTests -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

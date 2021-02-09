@@ -1,0 +1,13 @@
+
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ıŒ»¼ıÿÿÿÿ8ÎïÌ€ô.
+R
+java:S1444"0Make this "public static extentTest" field final(‡Ñµ¾ÿÿÿÿÿ8ÎïÌ€ô.
+x
+java:S1104"VMake extentTest a static final constant or non-public and provide accessors if needed.(‡Ñµ¾ÿÿÿÿÿ8ÎïÌ€ô.
+U
+java:S1444"3Make this "public static extentReports" field final(¿Úüæûÿÿÿÿ8ÎïÌ€ô.
+{
+java:S1104"YMake extentReports a static final constant or non-public and provide accessors if needed.(¿Úüæûÿÿÿÿ8ÎïÌ€ô.
+\
+java:S1161":Add the "@Override" annotation above this method signature(ØõÕüÿÿÿÿ8ÎïÌ€ô.

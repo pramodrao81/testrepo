@@ -1,0 +1,30 @@
+
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ìâœÅüÿÿÿÿ8ğ´ùÍò.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(Ò“Ûï8ğ´ùÍò.
+\
+java:S1161'":Add the "@Override" annotation above this method signature(–é¹¦ùÿÿÿÿ8ğ´ùÍò.
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(ÜŸ¯òúÿÿÿÿ8ğ´ùÍò.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÂ”ÿúÿÿÿÿ8ğ´ùÍò.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(£áíùÿÿÿÿ8ğ´ùÍò.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(•™óƒ8ğ´ùÍò.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ÕÚğÃ8ğ´ùÍò.
+W
+java:S1161":Add the "@Override" annotation above this method signature(û„Úª8ğ´ùÍò.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(óÛ³Ó8ğ´ùÍò.
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(¸ñ”ùÿÿÿÿ8ğ´ùÍò.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ø»ÆÃıÿÿÿÿ8ğ´ùÍò.
+W
+java:S11610":Add the "@Override" annotation above this method signature(Åé8ğ´ùÍò.
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(æ¯ş»8ğ´ùÍò.
+\
+java:S1161":Add the "@Override" annotation above this method signature(şîÜªøÿÿÿÿ8ğ´ùÍò.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ø‘Ú†8ğ´ùÍò.
+\
+java:S1161,":Add the "@Override" annotation above this method signature(ŞÙ›óúÿÿÿÿ8ğ´ùÍò.
+]
+java:S18587"A"getName" returns a string, there's no need to call "toString()".(ïÛ@8ğ´ùÍò.
+\
+java:S1161!":Add the "@Override" annotation above this method signature(ŒŞÓÉúÿÿÿÿ8ğ´ùÍò.
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(‚¬¡¹øÿÿÿÿ8ğ´ùÍò.
+W
+java:S1161":Add the "@Override" annotation above this method signature(·Å¾­8öš±áô.

@@ -1,0 +1,14 @@
+apitests\AuthenticationTests.class
+apitests\VideoGameDbTests.class
+uitests\BaseTest.class
+apitests\GPathJsonTests.class
+apitests\JsonPathTests.class
+cucumbertests\stepdefinations\HotelBooking.class
+cucumbertests\stepdefinations\Shop.class
+cucumbertests\cucumberoptions\JUnitTestRunner.class
+cucumbertests\cucumberoptions\TestNGTestRunner.class
+apitests\MyFirstTest.class
+uitests\HotelsTest.class
+apitests\JwayVideoGameTests.class
+apitests\GPathXmlTests.class
+apitests\FootballApiTests.class

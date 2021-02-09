@@ -1,0 +1,7 @@
+
+q
+java:S1128	"TRemove this unnecessary import: same package classes are always implicitly imported.(î™ßŞ8ã„üÑò.
+Z
+java:S1874"8Remove this use of "getRetryAnalyzer"; it is deprecated.(ŸÄü“úÿÿÿÿ8ˆ¨ÙÄò.
+\
+java:S1161":Add the "@Override" annotation above this method signature(Åè·×ûÿÿÿÿ8ˆ¨ÙÄò.
