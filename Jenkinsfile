@@ -14,7 +14,7 @@ pipeline{
                 script{
                     bat(/mvn clean test/)
                 }
-                step([$class : 'Publisher', reportFilenamePattern : '**/testng-results.xml'])
+                step([$class : 'Publisher', reportFilenamePattern : '**/test-output/LowLevel_Report/Test-Automaton-Report.html'])
             }
 
         }
