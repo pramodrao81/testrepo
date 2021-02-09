@@ -18,7 +18,7 @@ pipeline{
                             allowMissing: false,
                             alwaysLinkToLastBuild: false,
                             keepAll: true,
-                            reportDir: 'test-output\LowLevel_Report',
+                            reportDir: 'test-output/LowLevel_Report',
                             reportFiles: 'Test-Automaton-Report.html',
                             reportName: 'Automation Report'
                           ]
