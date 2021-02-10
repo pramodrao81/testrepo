@@ -1,15 +1,15 @@
 
 W
 java:S1444"<Make this "public static videoGame_responseSpec" field final(¸éãéùÿÿÿÿ
-}
-java:S1104"bMake videoGame_responseSpec a static final constant or non-public and provide accessors if needed.(¸éãéùÿÿÿÿ
-Q
-java:S1444";Make this "public static videoGame_requestSpec" field final(Î€ŸÀ
-v
-java:S3008"`Rename this field "videoGame_requestSpec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î€ŸÀ
-U
-java:S1118":Add a private constructor to hide the implicit public one.(ğäñÍüÿÿÿÿ
-|
-java:S3008"aRename this field "videoGame_responseSpec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸éãéùÿÿÿÿ
 w
 java:S1104"aMake videoGame_requestSpec a static final constant or non-public and provide accessors if needed.(Î€ŸÀ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ğäñÍüÿÿÿÿ
+}
+java:S1104"bMake videoGame_responseSpec a static final constant or non-public and provide accessors if needed.(¸éãéùÿÿÿÿ
+v
+java:S3008"`Rename this field "videoGame_requestSpec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î€ŸÀ
+|
+java:S3008"aRename this field "videoGame_responseSpec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸éãéùÿÿÿÿ
+Q
+java:S1444";Make this "public static videoGame_requestSpec" field final(Î€ŸÀ

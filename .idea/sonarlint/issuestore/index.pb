@@ -70,3 +70,7 @@ $src/main/java/apilib/TestConfig.java,9\9\99ff6bb1f24425b85970063d96820c7963d10
 ,src/main/java/apilib/VideoGameEndpoints.java,b\5\b54e2c27f6a102b5446d820c699e5be941c3bd4a
 I
 config/Testing.properties,7\9\794297f3ecebb298f0a2fe8c8b06f0626d29f1fd
+[
++src/main/java/apilib/FootballApiConfig.java,2\8\286fa83c390169dfe6b61843881c33332b2c170c
+;
+Jenkinsfile,0\c\0c2c5c506cef0ed2d3ad2b7e45e97980b66f5520

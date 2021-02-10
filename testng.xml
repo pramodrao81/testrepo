@@ -7,7 +7,7 @@
     </listeners>
     <test verbose="2" preserve-order="true" name="Regression Test">
         <classes>
-           <class name="apitests.FootballApiTests"></class>
+           <class name="uitests.HotelsTest"></class>
         </classes>
     </test>
 </suite>
