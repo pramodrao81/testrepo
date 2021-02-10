@@ -12,7 +12,7 @@ pipeline{
             steps{
                 git 'https://github.com/pramodrao81/testrepo.git'
                 script{
-                    sh 'mvn clean compile test'
+                    sh 'mvn test'
                 }
                 publishHTML target: [
                             allowMissing: false,
