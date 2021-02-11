@@ -195,7 +195,7 @@
                 <version>3.7.0</version>
                 <configuration>
                     <fork>true</fork>
-                    <executable>/usr/lib/jvm/jre-1.8.0-openjdk.x86_64/jre/bin/javac</executable>
+                    <executable>/usr/lib/jvm/java-1.8.0-openjdk.x86_64/bin/javac</executable>
                     <compilerVersion>1.8</compilerVersion>
                     <source>1.8</source>
                     <target>1.8</target>
